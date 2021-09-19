@@ -1,7 +1,7 @@
 # Blogapp-api
 A simple RESTFUL BLOG API that accurately simulates basic CRUD operations
 
-#HOW TO SET UP THE APP
+# HOW TO SET UP THE APP
 1. CLONE THE REPOSITORY VIA HTTPS OR SSH
 
 2. Once you have the files in your desired folder, run "npm install" to install all the dependencies specified in package.json
