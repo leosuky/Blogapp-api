@@ -18,6 +18,6 @@ mongoose.connect(process.env.MONGO_DB, {
 app.use('/api/post', postRoute);
 app.use('/api/post/c', commentRoute);
 
-app.listen("5000", () => {
+app.listen(process.env.PORT || 5000, () => {
     console.log("Api is running");
 });
