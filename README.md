@@ -51,5 +51,5 @@ DELETE COMMENT: https://localhost:PORT/api/post/c/delete/:COMMENT_ID
 4. MongoDB Atlas Cloud Server
 
 # Link to API
-http://3.142.49.62:5000/api/post/0/0
+https://leosukyblog-api.herokuapp.com/api/post/0/0
 I suggest using Mozilla to view GET, it has better JSON formatting.
